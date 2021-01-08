@@ -24,18 +24,18 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/umiverse-docs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mitsustainabledesignlab.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
-github_username:  mitsutainabledesignlab
+github_username: mitsutainabledesignlab
 
 
 # Build settings
 search_enabled: true
-remote_theme: pmarsceill/just-the-docs
+remote_theme: pdmosses/just-the-docs@callouts
 plugins:
   - jekyll-seo-tag
-  
+
 # Enable or disable heading anchors
 heading_anchors: true
 
@@ -100,7 +100,7 @@ compress_html:
   clippings: all
   comments: all
   endings: all
-  startings: []
+  startings: [ ]
   blanklines: false
   profile: false
   # ignore:
@@ -114,14 +114,16 @@ compress_html:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude: [ "README.md" ]
+
+callouts:
+  highlight:
+    color: yellow
+    opacity: 0.5
+  important:
+    title: Important
+    color: green
+    opacity: 0.5
+  note:
+    title: Note
+    color: blue
