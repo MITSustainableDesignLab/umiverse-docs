@@ -1,9 +1,8 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
+title: Home
 nav_order: 1
+description: This website hosts the documentation for UMI for Rhino.
 ---
 
-# Welcome
+# The `u`rban `m`odeling `i`nterface

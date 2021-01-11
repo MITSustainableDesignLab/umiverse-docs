@@ -1,8 +1,6 @@
 ---
-layout: default
 title: Uninstall
 parent: Installation Guide
-grand_parent: umi
 nav_order: 4
 ---
 

@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Send feedback
 nav_order: 5
 has_children: false

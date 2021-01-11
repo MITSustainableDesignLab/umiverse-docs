@@ -1,8 +1,6 @@
 ---
-layout: default
 title: Building Template
 parent: Template Library
-grand_parent: umi
 nav_order: 6
 ---
 

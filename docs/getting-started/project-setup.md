@@ -1,8 +1,6 @@
 ---
-layout: default
 title: Setup a project
 parent: Get started
-grand_parent: umi
 nav_order: 3
 ---
 

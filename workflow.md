@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Workflow 
 has_children: false
 has_toc: false

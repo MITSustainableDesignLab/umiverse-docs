@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Template Library
 parent: umi
 nav_order: 3

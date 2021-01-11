@@ -1,8 +1,6 @@
 ---
-layout: default
 title: Update
 parent: Installation Guide
-grand_parent: umi
 nav_order: 3
 ---
 

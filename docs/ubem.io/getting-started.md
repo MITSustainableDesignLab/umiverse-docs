@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Get started
 parent: ubem.io
 nav_order: 2

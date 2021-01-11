@@ -1,8 +1,6 @@
 ---
-layout: default
 title: Using Online Resources
 parent: Getting help
-grand_parent: umi
 nav_order: 1
 ---
 

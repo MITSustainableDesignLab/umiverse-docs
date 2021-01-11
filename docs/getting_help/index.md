@@ -1,8 +1,6 @@
 ---
-layout: default
 title: Getting help
-parent: umi
-nav_order: 4
+nav_order: 6
 has_children: true
 has_toc: true
 ---
@@ -20,6 +18,9 @@ has_toc: true
 </details>
 
 ## Contact support
+
+Contact umi
+[](mailto:)
 
 ## Report bugs
 
