@@ -16,6 +16,6 @@ templates from our database/library. The assigned building templates will be ref
 the umi file automatically, eliminating the need for manual assignments. Umi allows
 various urban-scale simulations, including energy and daylighting.
 
-![workflow](/assets/images/workflow.png "ubem.io simplifies the wrokflow from GIS models
+![workflow](/umiverse-docs/assets/images/workflow.png "ubem.io simplifies the wrokflow from GIS models
 to UBEM models")  
 {: .d-flex .flex-justify-around }

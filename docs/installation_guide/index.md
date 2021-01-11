@@ -48,13 +48,13 @@ of Rhino, and easily remove umi.
    In Chrome, it is possible that the file will be blocked. Simply click on `...` and
    select "Keep".
 
-   ![blocked](/assets/images/blocked.png "UMI.msi was blocked because it could harm your
-   device")
+   ![blocked](/umiverse-docs/assets/images/blocked.png "UMI.msi was blocked because it
+   could harm your device")
 
    If Microsfot Defender is activated on your computer, the following window could also
    appear:
 
-   ![harm](/assets/images/harm.png "Microsoft Defender SmartScreen")
+   ![harm](/umiverse-docs/assets/images/harm.png "Microsoft Defender SmartScreen")
 
    To dismiss, click on "Show more" and then click on "Keep anyway". This will allow you
    to run the msi installer.
@@ -70,5 +70,6 @@ For more information, see
 </div>
 
 {: .important }
+
 > It is necessary to have administrative privileges to install UMI.
->
+

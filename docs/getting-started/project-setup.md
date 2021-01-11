@@ -15,7 +15,7 @@ Rhino commands for "Opening" and "Saving" a project. Umi creates it’s own file
 To create a new project, simply click on the UMI button and select "open project" or "new
 project" and browse to the folder location of your choice. Once a project has been opened.
 
-![first-kd95h2j87.png](/assets/images/first-kd95h2j87.png "The umi menu")  
+![first-kd95h2j87.png](/umiverse-docs/assets/images/first-kd95h2j87.png "The umi menu")  
 {: .d-flex.flex-justify-around }
 
 {: .important}
@@ -58,7 +58,7 @@ button for this command, and you will have to type it in yourself.
 To export a project's building template library, use the "Export" button of the umi site
 settings tab:
 
-![site-config-dbe56713.png](/assets/images/site-config-dbe56713.png)
+![site-config-dbe56713.png](/umiverse-docs/assets/images/site-config-dbe56713.png)
 
 To export a project's geometry, use the standard Rhino SaveAs command (this is the command
 invoked by selecting File > Save As... from the Rhino menubar). **The project's working
