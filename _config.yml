@@ -137,3 +137,5 @@ callouts:
   hint:
     title: Hint
     color: blue
+
+theme: jekyll-theme-cayman
