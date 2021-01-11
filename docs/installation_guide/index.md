@@ -51,8 +51,9 @@ of Rhino, and easily remove umi.
    ![blocked](/umiverse-docs/assets/images/blocked.png "UMI.msi was blocked because it
    could harm your device")
 
-   If Microsfot Defender is activated on your computer, the following window could also
-   appear:
+   If
+   [Microsoft Defender](https://docs.microsoft.com/en-us/windows/security/threat-protection/microsoft-defender-antivirus/microsoft-defender-antivirus-in-windows-10)
+   is activated on your computer, the following window could also appear:
 
    ![harm](/umiverse-docs/assets/images/harm.png "Microsoft Defender SmartScreen")
 
