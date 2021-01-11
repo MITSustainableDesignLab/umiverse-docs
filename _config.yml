@@ -22,6 +22,8 @@ title: umiverse
 email: sustainabledesignlab@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Documentation for UMI and ubem.io.
+baseurl: "/umiverse-docs" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: pretty
 github_username: mitsutainabledesignlab
 
