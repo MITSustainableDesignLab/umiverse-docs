@@ -39,8 +39,9 @@ building properties template files for early design energy model generation", ac
 in the following
 [link](http://web.mit.edu/sustainabledesignlab/publications/TemplateEditor_SimBuild2014.pdf).
 
-![template_uml](/umiverse-docs/assets/images/template_uml.png "Graph structure of template library")
-*Source: Letellier-Duchesne, S. (2019). Planning and Integrated Design of Urban Heat-Sharing Networks. Polytechnique Montréal.*
+![template_uml](/umiverse-docs/assets/images/template-uml.svg "Graph structure of template
+library") *Source: Letellier-Duchesne, S. (2019). Planning and Integrated Design of Urban
+Heat-Sharing Networks. Polytechnique Montréal.*
 
 ## Opening a TLF file and navigating contents
 
