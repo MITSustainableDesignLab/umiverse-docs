@@ -1,6 +1,5 @@
 ---
 title: Get started
-parent: umi
 nav_order: 4
 has_children: true
 ---
